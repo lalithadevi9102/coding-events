@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.ArrayList;
 
-/**
- * Created by Chris Bay
- */
+
 @Controller
 @RequestMapping(value = "events")
 public class EventsController {
